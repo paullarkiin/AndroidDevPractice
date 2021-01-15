@@ -1,0 +1,2 @@
+rootProject.name='appOne_HappyBirthday'
+include ':app'
